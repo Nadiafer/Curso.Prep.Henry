@@ -27,15 +27,17 @@ const nuevoModulo = 21 % 5 === 1;
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código: 
-  
+  // Tu código: return str
+
+
   
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
+  // Tu código: return (a + b);
+  suma(3,3)= 6
   
 }
 
@@ -87,7 +89,7 @@ function mayorQueCincuenta(num) {
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
-  // Tu código:
+  // Tu código: 21 % 5
   
 }
 
